@@ -1,16 +1,110 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ronit Mexson</h1>
 
-<!--
-**ronitmexson2924/ronitmexson2924** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+🚀 MERN Stack Developer &nbsp;|&nbsp; 🤖 AI/ML Enthusiast &nbsp;|&nbsp; ☁️ Learning DevOps & Cloud Technologies
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ronitmexson2924&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+---
+
+## 👨‍💻 About Me
+
+- 🌱 Currently learning **Artificial Intelligence, Machine Learning, DevOps & Cloud Computing**
+- 💻 Building **Full-Stack Web Applications using the MERN Stack**
+- 🎯 Goal: Become a **Full-Stack AI Engineer**
+- 🚀 Exploring **Docker, Kubernetes, CI/CD, and MLOps**
+- 💬 Ask me about **React, Node.js, Express.js, MongoDB, JavaScript**
+- 🌐 Portfolio: **[ronit-mexson.netlify.app](https://ronit-mexson.netlify.app)**
+- 📫 Reach me at: **workwithronit.25@gmail.com**
+- ⚡ Fun Fact: **I enjoy dark humor and turning ideas into projects**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:workwithronit.25@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,mysql" />
+</p>
+
+### AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
+### DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronitmexson2924&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  &nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronitmexson2924&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ronitmexson2924&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ronitmexson2924/ronitmexson2924/snake-output/snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+## 🚀 Current Focus
+
+```text
+Building Full-Stack Applications
+├── MERN Stack
+├── Artificial Intelligence
+├── Machine Learning
+├── DevOps
+└── Cloud Computing
+```
