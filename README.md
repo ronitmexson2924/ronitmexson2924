@@ -17,7 +17,7 @@
 - 🎯 Goal: Become a **Full-Stack AI Engineer**
 - 🚀 Exploring **Docker, Kubernetes, CI/CD, and MLOps**
 - 💬 Ask me about **React, Node.js, Express.js, MongoDB, JavaScript**
-- 🌐 Portfolio: **[ronit-mexson.netlify.app](https://ronit-mexson.netlify.app)**
+- 🌐 Portfolio: **[ronitmexson.netlify.app](https://ronitmexson.netlify.app)**
 - 📫 Reach me at: **workwithronit.25@gmail.com**
 - ⚡ Fun Fact: **I enjoy dark humor and turning ideas into projects**
 
